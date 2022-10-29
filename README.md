@@ -1,1 +1,1 @@
-# my_projekt
+# Erste Versuche mit git/github
